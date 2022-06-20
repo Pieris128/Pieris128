@@ -12,7 +12,7 @@
 
 **If (you === InterestedInKnowingMeBetter)** 
 - 🤖 I am a self-taught FrontEnd developer
-- 🎬 I am also a frustrated movie maker attempt
+- 🎬 I am also a movie maker
 - 🎩 Always working in my CSS skills
 
 <p align="left">Find me in LinkedIn <br><a href="https://www.linkedin.com/in/matias-pier-espinosa-426199151/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/></a></p> 
