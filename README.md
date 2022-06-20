@@ -1,7 +1,6 @@
 <h2 align="center">Hey there, hope you have a nice day 🌞😊</h2>
 
 
-> "Most of you are aware of the virtues of the programmer. There are three, of course: laziness, impatience and excessive pride" -- Larry Wall
 
 
 ![giphy](https://user-images.githubusercontent.com/96449212/174452534-4fca05af-70ff-4d55-8409-a3f066a4847c.gif)
