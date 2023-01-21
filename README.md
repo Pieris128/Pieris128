@@ -3,7 +3,6 @@
 
 
 
-![giphy](https://user-images.githubusercontent.com/96449212/174452534-4fca05af-70ff-4d55-8409-a3f066a4847c.gif)
 ![giphy](https://user-images.githubusercontent.com/96449212/174452579-df5718fc-fadb-4658-8f95-7a485562fbdc.gif)
 
 
