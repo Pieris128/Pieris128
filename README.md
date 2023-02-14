@@ -4,7 +4,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pieris128&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pieris128&layout=compact)
 
-<h1> Frontend WebGL developer </h1>
+<h1> Frontend developer </h1>
 
 **Frameworks**
 
