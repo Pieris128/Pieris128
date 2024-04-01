@@ -5,13 +5,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pieris128&layout=compact)
 -->
 
-<h1> Frontend WebGL developer </h1>
+<h1> Frontend WebGL developer || Creative Web Developer </h1>
 
-**Frameworks**
+**What do i do?**
 
   
 <ul>
-  <li> NextJS </li>
+  <li> 3D web dev with Three JS </li>
+  <li> 3D software: Blender </li>
+  <li> Shaders </li>
+  <li> GSAP animations </li>
+  <li> Design </li>
 </ul>
 
 <p align="left"><a href="https://www.linkedin.com/in/matias-pier-espinosa-426199151/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/></a></p> 
